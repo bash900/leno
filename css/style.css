@@ -135,6 +135,8 @@ header {
   width: 100vw;
   position: relative;
   background-color: #ffff;
+    overflow-x: hidden;
+  
 }
 
 header .container {
